@@ -1,4 +1,4 @@
-## Olá eu sou o Frederico Gonçalves, Desenvolvedor de Software e apaixonado por tecnologia!
+## Olá aqui é o Fred, fique avontade para conferir meu trabalho e me contar o que achou 😉
 <div align="center">
   <a href="https://github.com/fredsilva7l">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsilva7l&show_icons=true&theme=noctis&include_all_commits=true&count_private=true"/>
