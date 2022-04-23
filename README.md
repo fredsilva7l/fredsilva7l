@@ -1,4 +1,4 @@
-## Olá aqui é o Fred, fique avontade para conferir meu trabalho e me contar o que achou!
+## Olá aqui é o Fred, seja bem vindo, espero que goste do meu trabalho e volte sempre!
 <div align="center">
   <a href="https://github.com/fredsilva7l">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsilva7l&show_icons=true&theme=noctis&include_all_commits=true&count_private=true"/>
