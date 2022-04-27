@@ -1,8 +1,6 @@
 ## Olá aqui é o Fred, seja bem vindo, espero que goste do meu trabalho e volte sempre!
 <div align="center">
   <a href="https://github.com/fredsilva7l">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsilva7l&show_icons=true&theme=noctis&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredsilva7l&layout=compact&langs_count=7&theme=noctis"/>
 </div>
   
  <div style="display: inline_block"><br>
