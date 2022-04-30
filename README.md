@@ -1,4 +1,4 @@
-## Olá aqui é o Fred, seja bem vindo, espero que goste do meu trabalho e volte sempre!
+## Seja bem vindo, aqui é onde adiciono os meus projetos pessoais e de estudo!
 <div align="center">
   <a href="https://github.com/fredsilva7l">
 </div>
